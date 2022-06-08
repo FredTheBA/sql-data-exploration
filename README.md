@@ -1,2 +1,1 @@
-# sql-data-exploration
-Covid19 deaths
+# sql-Covid 19 death project
